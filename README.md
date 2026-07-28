@@ -1,5 +1,7 @@
 # ShopNex — MERN Stack E-Commerce Application
 
+Live Demo:- http://65.2.74.91
+
 Full rebuild of ShopNex using **MongoDB, Express.js, React, Node.js** — same features as the original PHP/MySQL version, now as a modern JWT-authenticated REST API with a React SPA frontend.
 
 ## Tech Stack
